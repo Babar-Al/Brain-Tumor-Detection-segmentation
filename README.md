@@ -40,6 +40,7 @@ rain_tumor_project/
 - **GUI**:
   - Simple interface to select and classify MRI scans using the trained model.
 
----
+## i have not uploaded datset here contact me for that
+
 
 
